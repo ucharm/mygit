@@ -8,4 +8,4 @@ Creating a new branch is quick and simple.
 
 add dev
 
-I fixed the bug by myself.
+Fixed the bug by ourselves!
